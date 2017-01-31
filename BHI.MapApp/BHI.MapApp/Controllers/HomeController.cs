@@ -15,7 +15,7 @@ namespace BHI.MapApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Hello";
+            ViewBag.Message = "Holas";
 
             return View();
         }
