@@ -22,7 +22,7 @@ namespace BHI.MapApp.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Hello";
+            ViewBag.Message = "Hi";
 
             return View();
         }
